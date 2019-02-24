@@ -20,3 +20,6 @@ version, which is provided here, uses periodic boundaries and forward-Euler
 time stepping plus central differencing to approximate first and second 
 order derivatives. The function reactdiffadv in pde informs further about
 these details.
+
+
+Line Added.
